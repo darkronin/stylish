@@ -1,0 +1,25 @@
+
+.style-scope .ytd-guide-renderer:nth-child(2){
+ display:none;   
+    /* background: red;    */
+}
+.style-scope .ytd-guide-renderer:nth-child(3){
+ display:none;   
+}
+
+.ytd-guide-section-renderer:nth-child(3){
+   /* background: red;    */
+    display:none;  
+}
+.ytd-guide-collapsible-section-entry-renderer:nth-child(1){
+    display:none;
+}
+.yt-simple-endpoint .ytd-guide-entry-renderer{
+ /* background: red;    */
+}
+
+
+
+.style-scope .ytd-guide-collapsible-section-entry-renderer{
+ /* background: red;    */
+}
