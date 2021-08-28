@@ -1,0 +1,1 @@
+javascript:(function(){var y  = document.getElementsByTagName('ytd-playlist-video-renderer'); if(y.length > 0) y[parseInt(Math.random()*y.length)].scrollIntoView(); var y2  = document.getElementsByTagName('ytd-video-renderer'); if(y2.length > 0) y2[parseInt(Math.random()*y2.length)].scrollIntoView();})();
