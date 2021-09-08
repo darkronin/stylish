@@ -1,0 +1,5 @@
+/* show to people without compromising privacy */
+.ytd-rich-grid-media{
+    display2: none;
+    filter: blur(9px);
+}
